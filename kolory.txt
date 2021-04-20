@@ -1,0 +1,12 @@
+#0000ff
+#3333ff
+#3366ff
+
+Apokalipsa św. Jana
+
+https://openclipart.org/download/316961/1552883888.svg
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Blinker&display=swap" rel="stylesheet">
+
+font-family: 'Blinker', sans-serif;
