@@ -111,5 +111,6 @@ margin: 0;
 #pozioma{
   display: flex;
   list-style-type: none;
-  padding: 0;
+  padding: 0px;
+  letter-spacing: normal;
 }
