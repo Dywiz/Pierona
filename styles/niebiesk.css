@@ -109,8 +109,10 @@ padding: 0;
 margin: 0;
 }
 #pozioma{
+  font-size: 15px;
   display: flex;
   list-style-type: none;
-  padding: 0px;
-  letter-spacing: normal;
+  text-align: center;
+  padding: auto;
+  margin: auto;
 }
