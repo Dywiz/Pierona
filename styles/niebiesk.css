@@ -110,4 +110,5 @@ margin: 0;
 }
 #pozioma{
   display: flex;
+  list-style-type: symbols();
 }
